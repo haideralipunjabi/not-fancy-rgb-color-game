@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Great RGB Color Game</string>
+    <string name="title">%1$s</string>
+    <string name="btn_retry_text">Retry</string>
+    <string name="btn_mode_text_easy">Easy Mode</string>>
+    <string name="btn_mode_text_hard">Hard Mode</string>>
+    <string name="msg_correct">CORRECT</string>
+    <string name="msg_wrong">Try Again</string>
+
+    <string name="title_activity_about">About</string>
+
+    <string name="developer" translatable="false">Hackesta</string>
+    <string name="subtitle" translatable="false">Idea | Inspiration | Implementation</string>
+    <string name="about">Hackesta is the name under which, a Haider Ali Punjabi, a developer from Srinagar, Jammu and Kashmir releases his work.</string>
+    <string name="play_store_link" translatable="false">https://play.google.com/store/apps/developer?id=Hackesta</string>
+    <string name="twitter_username" translatable="false">hackestaorg</string>
+    <string name="youtube_link" translatable="false">UCF-qoE_8k_aum76Rk7EWMIg</string>
+    <string name="website" translatable="false">https://hackesta.org</string>
+    <string name="email" translatable="false">developer@hackesta.org</string>
+    <string name="app_subtitle">Not A Fancy App</string>
+    <string name="github_app_url">https://github.com/haideralipunjabi/not-fancy-rgb-color-game</string>
+</resources>
